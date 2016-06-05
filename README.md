@@ -28,10 +28,14 @@ and then you could define your languages bar option (optional)
 	}
 ?>
 ```
-then go to /lang/hooks/ directory and customize your language based on two standart variables
+then go to /lang/hooks/ directory and create your custome language based on two standart variables, and do not forget rename it as 2 characters language code *e.g. it.php for italian language*.
 ```php
 $name = "YOURLANGUAGENAME";
 $hook = array("KEYWORDS" => "VALUEWORDSOFMEANING");
 ```
 that is all.
 
+License
+---------
+
+GNU © [Tarek Kalaji](https://github.com/tarek-aec)
