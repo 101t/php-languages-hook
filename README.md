@@ -1,4 +1,6 @@
 # php-languages-hook
+[![Build Status](https://travis-ci.org/tarek-aec/php-languages-hook.svg?branch=master)](https://travis-ci.org/tarek-aec)
+
 The easy way to translate your website in PHP to hook all language files
 It is based on Key => Value dictionary array for every language.
 
